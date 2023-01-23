@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aima_core_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/artifacts/aima_core_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/out/artifacts/aima_core_jar" recursive="false" />
+  </library>
+</component>

@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jade" level="project" />
+    <orderEntry type="library" name="aima_core_jar" level="project" />
   </component>
 </module>
